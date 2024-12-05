@@ -1,0 +1,53 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:rgb(248, 246, 246);
+   
+}
+
+h1{
+    color:#1877f2;
+}
+
+
+
+button{
+    background-color:#1877f2;
+    border-radius: 5px;
+    width:200px;
+    height:27px;
+    color: aliceblue;
+    margin:10px;
+    text-align: center;
+}
+a{
+color:blue;
+font-size:10px;
+
+}
+.emaill{
+    margin:10px;
+    width:200px;
+    height:25px;
+   
+   
+}
+.password{
+    margin:10px;
+    width:200px;
+    height:25px;
+    
+}
+.box{
+    align-items: center;
+    height:230px;
+    width:260px;
+   background-color: rgb(252, 251, 251);
+    padding-top: 1px;
+    border-radius: 10px;
+    box-shadow: 5px 5px rgb(178, 178, 185);
+;
+    
+    
+}
+
+

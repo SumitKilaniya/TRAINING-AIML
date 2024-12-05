@@ -1,0 +1,75 @@
+/* H1{
+    color: #b31134d0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}   
+
+
+#HTML{
+    background-color: rgba(107, 145, 148, 0.575);
+}   
+.BOX{
+    font-size: 30PX;
+}     
+.box2{
+    height: 500px;
+width: 500px;
+background-color: black;
+}
+.subbox{
+    height: 250px;
+width: 250px;
+background-color: white;
+padding:60PX;
+border:6px dashed orange;
+margin-top: 20px;
+
+ */
+ .box{
+    width: 100px;
+    height: 100px;
+    border: solid 5px black;
+}
+.container{
+background-color: aqua;
+position: relative;
+}
+
+#one{
+    background-color: brown;
+}
+#two{
+    background-color: blueviolet;
+}
+#three{
+    background-color: chartreuse;
+    position: absolute;
+    left: 50px;
+}
+#four{
+    background-color: rgb(204, 27, 115);
+}
+#o{
+    position: absolute;
+    left: 420px;
+    top: 20px;
+}
+#t{
+    position: absolute;
+    left: 580px;
+    top: 20px;
+}
+#v{
+    position: absolute;
+    left: 580px;
+    top: 200px;
+}
+#r{
+    position: absolute;
+    left: 420px;
+    top: 200px;
+}
+#f{
+    position: absolute;
+    left: 500px;
+    top:110px;
+}

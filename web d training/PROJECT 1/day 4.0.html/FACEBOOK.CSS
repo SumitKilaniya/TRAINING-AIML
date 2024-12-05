@@ -1,0 +1,72 @@
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#1877F2;
+    font-size: 80px;
+}
+.create{
+    font-size: 40PX;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.quick{
+    font-size: 30px;
+    padding-bottom: 50PX
+}
+
+.first{
+    padding-left: 10px;
+    border-radius: 8PX;
+    width: 340px;
+    height: 50px;
+    font-size:27px;
+    margin-right:15px;
+}
+.last{
+    padding-left: 10px;
+    border-radius: 8PX;
+    width: 340px;
+    height: 50px;
+    font-size:27px;
+    
+}
+.birth{
+    
+    padding-top: 30px;
+    font-size: 25px;
+}
+.datee{
+    padding-left: px;
+    padding-top: 20px;
+    
+
+}
+.dateee{
+    padding-left: 10px;
+    border-radius: 8PX;
+    width: 240px;
+    height: 70px;
+    font-size:27px;
+    
+
+}
+
+
+.month{
+    padding-left: 10px;
+    border-radius: 8PX;
+    width: 240px;
+    height: 70px;
+    font-size:27px;
+    padding-left: 20px;
+    
+
+}
+.year{
+    padding-left: 10px;
+    border-radius: 8PX;
+    width: 240px;
+    height: 70px;
+    font-size:27px;
+    padding-left: 20px;
+    
+
+}
